@@ -108,5 +108,5 @@ Hi there! I'm **Sumer Azam**, I’m a passionate Data Analyst looking to learn a
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/sumer-azam916/)
-[![Twitter/X ](https://x.com/Sumer_azam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumer-azam916/)
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/Sumer_azam)
